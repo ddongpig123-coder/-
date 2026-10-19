@@ -6,6 +6,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:template/core/controllers/theme_controller.dart';
 import 'package:template/core/themes/app_theme.dart';
+import 'package:template/features/share_table/screens/share_key_screen.dart';
 import 'package:template/features/todo/screens/sample_screen.dart';
 import 'package:template/setup.dart';
 
@@ -53,7 +54,7 @@ class MyApp extends ConsumerWidget {
       locale: context.locale,
       supportedLocales: context.supportedLocales,
       localizationsDelegates: context.localizationDelegates,
-      home: const SampleScreen(),
+      home: ShareKeyScreen(),
     );
   }
 }

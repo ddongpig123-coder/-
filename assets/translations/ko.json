@@ -3,5 +3,15 @@
   "new_todo": "새 할 일",
   "add": "추가",
   "cancel": "취소",
-  "hint_enter_todo": "할 일을 입력하세요"
+  "hint_enter_todo": "할 일을 입력하세요",
+  "share_table": {
+    "title": "ShareTable",
+    "create_key_description": "본 그룹 앱이 시작해요. 아래 버튼을 눌러 나만의 키를 만드세요.",
+    "create_key_button": "나의 키 만들기",
+    "key_saved_locally": "키는 기기 로컬에 저장됩니다.",
+    "key_created": "나만의 키가 생성되었어요!",
+    "copied_to_clipboard": "클립보드에 복사되었어요!",
+    "go_to_schedule": "시간표 보러가기",
+    "key_copied": "키가 복사되었습니다"
+  }
 }

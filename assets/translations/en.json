@@ -3,5 +3,15 @@
   "new_todo": "New Todo",
   "add": "Add",
   "cancel": "Cancel",
-  "hint_enter_todo": "Enter a todo"
+  "hint_enter_todo": "Enter a todo",
+  "share_table": {
+    "title": "ShareTable",
+    "create_key_description": "This group app is starting. Press the button below to create your own key.",
+    "create_key_button": "Create My Key",
+    "key_saved_locally": "The key is saved locally on the device.",
+    "key_created": "Your key has been created!",
+    "copied_to_clipboard": "Copied to clipboard!",
+    "go_to_schedule": "View Schedule",
+    "key_copied": "Key copied"
+  }
 }
